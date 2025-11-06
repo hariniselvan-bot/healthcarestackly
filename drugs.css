@@ -151,7 +151,7 @@ nav ul li a:hover{
 .menu-toggle span{
   width:28px;
   height:3px;
-  background:#0b4041;
+  background:#ecf3f4;
   border-radius:2px;
   transition:0.3s;
 }
@@ -308,7 +308,7 @@ nav ul li a.active {
 }
 
 body {
-  background: #0e4347;
+  background: #e9ecec;
   color: #333;
   line-height: 1.6;
 }
